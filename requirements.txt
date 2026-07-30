@@ -1,0 +1,30 @@
+# Core deep learning
+# Requires Python 3.9-3.11 (developed/tested on 3.9.5)
+tensorflow>=2.15,<2.16
+tensorflow-datasets>=4.9
+
+# Data science / numerics
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.3
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+
+# Image handling
+Pillow>=10.0
+
+# Notebooks
+jupyter>=1.0
+ipykernel>=6.29
+
+# Demo app (optional, for interactive inference)
+streamlit>=1.32
+
+# Testing
+pytest>=8.0
+
+# Utilities
+tqdm>=4.66
+pyyaml>=6.0
